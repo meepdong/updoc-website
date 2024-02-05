@@ -1,0 +1,18 @@
+/* illustration */
+.illustration {
+  position: absolute;
+  width: 693px;
+  height: 598px;
+  left: 794px;
+  top: 201px;
+
+  /* trafalgar-header illustration 1 */
+
+  position: absolute;
+  left: 49.62%;
+  right: 7.06%;
+  top: 3.42%;
+  bottom: 86.39%;
+
+  background: url('../images/illustrationHQ.png');
+}
