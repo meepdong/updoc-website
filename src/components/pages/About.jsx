@@ -5,8 +5,8 @@ export const About = () => {
   return (
   <>
   <h1>About</h1>
-  <section className="Section1"></section>
-  <div className="illustration"></div>
+  <section></section>
+  
   </>
   )
 };
